@@ -1,0 +1,6 @@
+framework module Pods_Cerge_tvOSTests {
+  umbrella header "Pods-Cerge-tvOSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

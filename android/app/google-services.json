@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "597358878269",
+    "firebase_url": "https://cerge-9cffa.firebaseio.com",
+    "project_id": "cerge-9cffa",
+    "storage_bucket": "cerge-9cffa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597358878269:android:05eb8851109a2c4d1b5454",
+        "android_client_info": {
+          "package_name": "com.cerge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597358878269-b60v8djdichhko3ksirarp54rifv1r5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3AOxAfhPn0k1iRyXlqu_YrE8B6Y5cJgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597358878269-b60v8djdichhko3ksirarp54rifv1r5t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "597358878269-7kkfu5isl1m2qikjvvgdl62p33u369bp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cerge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

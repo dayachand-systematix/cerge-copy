@@ -1,0 +1,6 @@
+framework module Pods_Cerge {
+  umbrella header "Pods-Cerge-umbrella.h"
+
+  export *
+  module * { export * }
+}

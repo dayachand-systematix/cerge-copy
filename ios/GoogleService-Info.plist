@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>597358878269-mnl8g2mgd14fc1uvkcqu63on8cdgjkei.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.597358878269-mnl8g2mgd14fc1uvkcqu63on8cdgjkei</string>
+	<key>API_KEY</key>
+	<string>AIzaSyArVv05Gvx888NuDgSnKm9Ou_MA5_7ajFA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>597358878269</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cergeApp</string>
+	<key>PROJECT_ID</key>
+	<string>cerge-9cffa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cerge-9cffa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:597358878269:ios:c4fba89f09e967d11b5454</string>
+	<key>DATABASE_URL</key>
+	<string>https://cerge-9cffa.firebaseio.com</string>
+</dict>
+</plist>
